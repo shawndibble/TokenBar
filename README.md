@@ -4,7 +4,7 @@ This is a FoundryVTT module for the 5e system. It populates an action bar for th
 # Installation
 1. Inside Foundry's Configuration and Setup screen, go to **Add-on Modules**
 2. Click "Install Module"
-3. In the Manifest URL field paste: `https://raw.githubusercontent.com/Kekilla0/TokenBar/module.json`
+3. In the Manifest URL field paste: `https://raw.githubusercontent.com/Kekilla0/TokenBar/master/module.json`
 
 # Usage
 
