@@ -1,6 +1,5 @@
 # Token Bar
-This is a Foundry VTT module for pulling *every* player to a specific scene. If you have a large party and they are across various scenes, this adds a shortcut to pull the party together quickly  and easily.
-
+This is a FoundryVTT module for the 5e system. It populates an action bar for the token you have selected. The information contains buttons to roll equipment, spells, skills, ability checks and saves.
 
 # Installation
 1. Inside Foundry's Configuration and Setup screen, go to **Add-on Modules**
