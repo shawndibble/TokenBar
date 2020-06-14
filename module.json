@@ -1,6 +1,6 @@
 {
 	"name" : "TokenBar",
-	"title" : "Token Action Dropdown Bar",
+	"title" : "TokenBar",
 	"description" : "Creates Bar to Control a tokens actions.",
 	"author" : ["^ and stick#0520", "kekilla#7036"],
 	"version" : "0.1.0",
